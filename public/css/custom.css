@@ -1,0 +1,41 @@
+.row-2 {
+    margin-top: 20px;
+}
+.required_star{color:red;}
+#cmd {
+    padding: 5px 15px;
+    float: right;
+}
+th {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+}
+
+.report-header1 {
+    width: 100%;
+}
+.report-header1 .left-div {
+    float: right;
+}
+#pdf-content h1 {
+    width: 100%;
+    text-align: center;
+}
+.report-header2 .left-div {
+    float: left;
+}
+.report-header2 .right-div {
+    float: right;
+}
+.report_form .form_btn_row .btn-primary{
+    margin-left:15px;
+}
+
+
